@@ -185,10 +185,11 @@ h3 {
 /* campus */
 .campus {
   width: 80%;
-  margin: 0;
+  margin: auto;
   text-align: center;
   padding: 50px;
 }
+
 .campus-col {
   flex-basis: 32%;
   border-radius: 10px;
